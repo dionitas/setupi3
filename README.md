@@ -1,2 +1,4 @@
-# setupi3
-Configuração inicial do i3 para Debian 9 e Ubuntu 16
+# setup
+~   1 Configuração inicial do meu desktop Debian.
++   2 Faz instalação do Virtual Box registo das vm do DockerM e do Plex.
++   3 Configuração do i3 Windows Manager.
